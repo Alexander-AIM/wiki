@@ -1,8 +1,12 @@
+---
+title: Trucker
+---
 
 
 # Trucker 🚚 
-Actiunea job-ul 'Trucker' consta in transportarea si livrarea marfii in locatiile primite.
+Actiunea job-ul **Trucker** consta in transportarea si livrarea mărfii in locatiile primite.
 ::: details Locație job
+![Locatie job Garbage man](https://i.imgur.com/3UCMpRo.png "Locație job Trucker")
 ![Locatie job Trucker](https://i.imgur.com/3UCMpRo.png "Locație job Trucker")
 :::
 ## Muncă
@@ -34,11 +38,6 @@ Totodată pe măsură ce faci mai multe curse ilegale la rând, recompensa în b
 ### Ture necesare pentru skill up:
 
 | Skill         |  kg   |
-| ------------- | ----: |
-| 2             | 50|
-| 3             | 125|
-| 4             | 250|
+@@ -33,8 +41,4 @@ Atunci când vei folosi vehiculul personal în timp ce muncești, acesta iti va
 | 5             | 600|
 | 6             | 1500|
-
-
