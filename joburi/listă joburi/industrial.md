@@ -31,11 +31,11 @@ Undița poate fi îmbunătățita în locația specială în schimbul unei sume 
 
 | Skill         |  animale   |
 | ------------- | ----: |
-| 2             | 300|
-| 3             | 750|
-| 4             | 1350|
-| 5             | 2333|
-| 6             |3333|
+| 2             | 300 |
+| 3             | 750 |
+| 4             | 1350 |
+| 5             | 2333 |
+| 6             | 3333 |
 
 ## Ce undițe primesc la fiecare skill la 'Industrial Fisherman' dacă o îmbunătățesc?
 
